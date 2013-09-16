@@ -5,8 +5,8 @@ Born out of a four hour, combinatorics-laden discussion I had with a friend whil
 
 In its current state, it simulates the game and shows a chart of the players' money over time, but the players lose money faster than I would expect, so I suspect there is a bug.  Verifying that the game is played correctly is the first priority, other todos include
 
-- [] finish Counter (card counter) class so that a player may be influenced by various counting strategies
-- [] implement some sort of side bet feature, so typical side bets can be incorporated in a player's strategy
+- [ ] finish Counter (card counter) class so that a player may be influenced by various counting strategies
+- [ ] implement some sort of side bet feature, so typical side bets can be incorporated in a player's strategy
 
 Dependencies
 ------------
